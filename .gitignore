@@ -2,3 +2,5 @@
 .local
 .ipynb_checkpoints
 .jupyter
+AmesHousing*
+.cache
