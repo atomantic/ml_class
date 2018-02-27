@@ -5,13 +5,13 @@ This repo contains the entire lecture/workshop with executable code using Jupyte
 
 ## Getting Started (Locally)
 1. Install Docker for [Mac](https://www.docker.com/docker-mac) / [Windows](https://www.docker.com/docker-windows) / [Linux](https://docs.docker.com/install/)
-2. Run the Jupyter IDE 
+2. Clone and start the project:
 ```shell
-docker run -it --rm -p 8888:8888 jupyter/scipy-notebook
+git clone git@github.com:atomantic/ml_class.git
+cd ml_class
+docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
 ```
-3. Download this project
-4. Open the link to jupyter environment given by the docker run command (e.g. http://localhost:8888/?token=f02e34b39ff5c834ca0a22335eb89b3b5858d1cc858ae921) ![run.png](run.png)
-4. Upload the project to Jupyter
+2. Open the link to jupyter environment given by the docker run command (e.g. http://localhost:8888/?token=f02e34b39ff5c834ca0a22335eb89b3b5858d1cc858ae921) ![run.png](run.png)
 
 ## Workshop Outline
  
