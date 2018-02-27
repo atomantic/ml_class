@@ -52,3 +52,7 @@ docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
     - Clustering with Sklearn (KMeans)
     - Matplot lib
     - Linear Regression
+
+# Credits & References
+1. Ames Housing Data samples referenced in Notebooks: Journal of Statistics Education, Volume 19, Number 3(2011)
+    - Publication & data sources available at: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
