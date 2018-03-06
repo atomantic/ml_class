@@ -5,6 +5,7 @@ This repo contains the entire lecture/workshop with executable code using Jupyte
 
 ## Getting Started (Locally)
 1. Install Docker for [Mac](https://www.docker.com/docker-mac) / [Linux](https://docs.docker.com/install/) / [Windows](https://docs.docker.com/docker-for-windows/install/#download-docker-for-windows)
+2. Start docker ;)
 2. Clone and start the project
 - **MacOS / Linux**
 ```shell
