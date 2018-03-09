@@ -1,6 +1,8 @@
 # Machine Learning Demystified for Developers
 > a 2-hour workshop by Adam Eivy and Jason Lewis
 
+**Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and practical application of it.**
+
 This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/
 
 Prerequisite: Comfortable using the command line and basic understanding of programming in [Python](https://www.python.org/)
