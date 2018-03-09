@@ -3,9 +3,11 @@
 
 **Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and practical application of it.**
 
-This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/
+This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
 
-Prerequisite: Comfortable using the command line and basic understanding of programming in [Python](https://www.python.org/)
+After you've chosen your avenue of engagement (locally or mybinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
+
+**Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/)
 
 ## Getting Started (Locally)
 Below are instructions for setting up your local machine as a sandbox for the workshop. Once you complete these steps
