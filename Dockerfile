@@ -1,1 +1,1 @@
-FROM jupyter/scipy-notebook:latest
+FROM jupyter/scipy-notebook:89e87a41678a
