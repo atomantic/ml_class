@@ -19,7 +19,7 @@ you'll have a working, local deployment of the jupter environment running on you
 
 - **MacOS / Linux**
 ```shell
-git clone git@github.com:atomantic/ml_class.git
+git clone https://github.com/atomantic/ml_class.git
 cd ml_class
 docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
 ```
