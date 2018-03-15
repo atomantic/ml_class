@@ -1,3 +1,3 @@
-FROM jupyter/scipy-notebook:89e87a41678a
+FROM jupyter/scipy-notebook:latest
 
 COPY . /home/jovyan
