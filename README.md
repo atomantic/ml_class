@@ -5,6 +5,8 @@
 
 This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
 
+[Click to Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
+
 After you've chosen your avenue of engagement (locally or mybinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
 
 **Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/)
