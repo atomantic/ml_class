@@ -1,5 +1,8 @@
-# Machine Learning Demystified for Developers
-> a 2-hour workshop by Adam Eivy and Jason Lewis
+# Machine Learning Demystified
+## a 2-3 hour workshop by Adam Eivy and Jason Lewis
+
+Curious about machine learning, but don't know where to start? This class will get you running with an interactive development environment effortlessly using Jupyter Notebooks. We will then demystify machine learning terms, walk through clustering, linear regression, & even play with a neural network. Each section of the class provides hands-on experimentation with various machine learning tools and explains how and when to use different tooling depending on the quesion needing to be answered.
+
 
 **Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and practical application of it.**
 
