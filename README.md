@@ -37,6 +37,9 @@ docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
 
 4. Open the link to jupyter environment given by the docker run command (e.g. http://localhost:8888/?token=f02e34b39ff5c834ca0a22335eb89b3b5858d1cc858ae921) ![running](images/run.png)
 
+# Facilitator Notes
+If MyBinder is down/unavailable and you have Windows Users who do not have Docker for Windows capabilities, you can stand up your own local hosted copies of the system by running `./run.sh 8888` within this directory. You can specify an arbitrary port (8888 is default) to stand up an unlimited number of instances and share out the token auth links with individual users via a messaging app. If you are unconcerned about students overwriting files and bumping into each other, you can even share a single instance over the local network. Just replace the "localhost" part of the app startup output with your local IP address, which is given in the first output of the run.sh script.
+
 # Credits/References or Resources
 1. Ames Housing Data samples referenced in Notebooks: Journal of Statistics Education, Volume 19, Number 3(2011)
     - Publication & data sources available at: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
