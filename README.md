@@ -1,14 +1,13 @@
 # Machine Learning Demystified
-## a 2-3 hour workshop by Adam Eivy and Jason Lewis
+## a 3 hour hands-on workshop by Adam Eivy and Jason Lewis
 
 Whether you are a seasoned data scientist, a software engineer, or a novice, this workshop will guide you through the foundations you need to get up and running with machine learning effortlessly using Jupyter Notebooks and Python (no specific experience required). We will demystify terms, clustering, linear regression, & play with a neural network.
 
-
-**Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and practical application of it.**
+**Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and practical applications**
 
 This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
 
-[Click to Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
+[Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
 
 After you've chosen your avenue of engagement (locally or mybinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
 
@@ -16,7 +15,7 @@ After you've chosen your avenue of engagement (locally or mybinder) for the work
 
 ## Getting Started (Locally)
 
-> Note: If you are running Windows and you are running < Windows 10 (e.g. Windows 7), you will need to use [MyBinder](https://mybinder.org/). Enter `https://github.com/atomantic/ml_class` as the `Github Repo` and click `launch`
+> Note: If you are running Windows and you are running < Windows 10 (e.g. Windows 7), [Launch on the web via MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
 
 Below are instructions for setting up your local machine as a sandbox for the workshop. Once you complete these steps
 you'll have a working, local deployment of the jupter environment running on your host within a docker container.
