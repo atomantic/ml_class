@@ -21,11 +21,17 @@ Below are instructions for setting up your local machine as a sandbox for the wo
 
 1. Install Docker for [Mac](https://www.docker.com/docker-mac) / [Linux](https://docs.docker.com/install/) / [Windows 10](https://docs.docker.com/docker-for-windows/install/#download-docker-for-windows)
 2. Start docker ;)
-3. Clone and start the project
+3. Download the project:
 
 - **MacOS / Linux**
 ```shell
+# download the code repo
 git clone https://github.com/atomantic/ml_class.git
+# download the docker image
+docker pull jupyter/scipy-notebook
+```
+Once the workshop starts, you can run the environment with:
+```
 cd ml_class
 docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
 ```
