@@ -35,7 +35,7 @@ docker pull jupyter/scipy-notebook
 > recommend using [bash for windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or [Cygwin](https://www.cygwin.com/) then follow the same instructions for Mac/Linux :)
 If this doesn't work or you are on another Windows Version, don't worry about it. We can run a web hosted version of the project at the time of the workshop.
 
-# Running the Project
+## Running the Project
 
 - If you were unable to setup the local project prior to the workshop, (e.g. if you are running Windows 7), [Launch on the web via MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master) and you are done.
 - If you were able to download the local project, you can run them now like so:
@@ -45,10 +45,10 @@ docker run -it -v $(pwd):/home/jovyan --rm -p 8888:8888 jupyter/scipy-notebook
 ```
 Now open the link to jupyter environment given by the docker run command (e.g. http://localhost:8888/?token=f02e34b39ff5c834ca0a22335eb89b3b5858d1cc858ae921) ![running](images/run.png)
 
-# Facilitator Notes
+## Facilitator Notes
 If MyBinder is down/unavailable and you have Windows Users who do not have Docker for Windows capabilities, you can stand up your own local hosted copies of the system by running `./run.sh 8888` within this directory. You can specify an arbitrary port (8888 is default) to stand up an unlimited number of instances and share out the token auth links with individual users via a messaging app. If you are unconcerned about students overwriting files and bumping into each other, you can even share a single instance over the local network. Just replace the "localhost" part of the app startup output with your local IP address, which is given in the first output of the run.sh script.
 
-# Credits/References or Resources
+## Credits/References or Resources
 1. Ames Housing Data samples referenced in Notebooks: Journal of Statistics Education, Volume 19, Number 3(2011)
     - Publication & data sources available at: http://ww2.amstat.org/publications/jse/v19n3/decock.pdf
 
