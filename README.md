@@ -1,15 +1,15 @@
 # Machine Learning Demystified
-## a 3 hour hands-on workshop by Adam Eivy and Jason Lewis
+## A 3-hour hands-on workshop by Adam Eivy and Jason Lewis
 
 Whether you are a seasoned data scientist, a software engineer, or a novice, this workshop will guide you through the foundations you need to get up and running with machine learning effortlessly using Jupyter Notebooks and Python (no specific experience required). We will demystify terms, clustering, linear regression, & play with a neural network.
 
-**Goal: Getting individuals comfortable with the foundations of what Machine Learning (ML) is and playing with practical applications**
+**Goal: Getting individuals comfortable with the foundations of Machine Learning (ML) and playing with practical applications**
 
 This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
 
 [Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
 
-After you've chosen your avenue of engagement (locally or mybinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
+After you've chosen your avenue of engagement (locally or MyBinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
 
 **Workshop Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/)
 
