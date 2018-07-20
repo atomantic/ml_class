@@ -24,6 +24,7 @@ Below are instructions for setting up your local machine as a sandbox for the wo
 3. Download the project:
 
 - **MacOS / Linux**
+open the `Terminal` app and paste the following:
 ```shell
 # download the code repo
 git clone https://github.com/atomantic/ml_class.git
