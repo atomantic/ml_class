@@ -1,7 +1,11 @@
 
 
-
  github.com/atomantic/ml_class
+
+  slack: #techvive-ml-workshop
+	
+						js.tensorflow.org
+
 
 
 
