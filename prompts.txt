@@ -1,16 +1,17 @@
 
 
- github.com/atomantic/ml_class
+ 	github.com/atomantic/ml_class
 
-  slack: #techvive-ml-workshop
+ 							  slack: #jeta
 	
-						js.tensorflow.org
+					   js.tensorflow.org
 
 
 
 
 
-			 coursera.org/next18
+			   coursera.org/next18
+
 
 
 

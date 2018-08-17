@@ -5,13 +5,11 @@ Whether you are a seasoned data scientist, a software engineer, or a novice, thi
 
 **Goal: Getting individuals comfortable with the foundations of Machine Learning (ML) and playing with practical applications**
 
-This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or using https://mybinder.org/ 
-
-[Launch Notebook on MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master)
+This repo contains the entire lecture/workshop with executable code using [Jupyter notebooks](https://jupyter.org/). You can run this project and all samples in a Docker container locally, or [Launch on the web via MyBinder](https://mybinder.org/v2/gh/atomantic/ml_class/master) without installing or running anything on your machine (entirely in a web browser).
 
 After you've chosen your avenue of engagement (locally or MyBinder) for the workshop simply begin with the first lesson's notebook by clicking on the hyperlink displayed for 01 - Intro.ipynb
 
-**Workshop Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/)
+**Workshop Prerequisite:** Comfortable using the command line and optionally (helpful, but not required) a basic understanding of programming in [Python](https://www.python.org/) or another scripting language.
 
 ## Pre-Work Setup (Do This Now)
 
